@@ -50,3 +50,5 @@ To add a connection, click the [+] icon to the right of the MySQL Connections ti
 Use Vault to store your root user password. If you have created different user than root please specify accordingly.
 
 Test your connection!
+
+Once your connection is successful you can download SQL resource files from [here](https://github.com/commit-live-students/sql-resources).
